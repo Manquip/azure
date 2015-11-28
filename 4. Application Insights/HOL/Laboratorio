@@ -1,0 +1,19 @@
+Application Insights
+
+¿Qué es Application Insights?
+Es un servicio de análisis extensible que supervisa su aplicación activa. Le ayuda a detectar y a diagnosticar problemas de rendimiento y a comprender qué hacen los usuarios realmente con su aplicación. Está diseñado para desarrolladores, para ayudarle a mejorar continuamente el rendimiento y la facilidad de uso de la aplicación y que permite:
+•	Supervisar el uso y rendimiento de las aplicaciones activas.
+•	Supervisar aplicaciones web de ASP.NET o J2EE hospedadas en cualquier lugar: en Azure, en otros servicios en la nube o en sus propios servidores locales.
+•	Supervisar aplicaciones de Android, iOS, OSX, Windows, etc.
+•	Obtener alertas inmediatas en caso de problemas de rendimiento o disponibilidad.
+•	Obtener telemetría para aplicaciones web existentes sin tener que volver a implementarlas.
+•	Se puede usar con una amplia variedad de tipos de aplicaciones en ejecución en dispositivos, servidores o equipos de escritorio.
+•	Buscar registros de seguimiento y excepción para diagnosticar los errores.
+•	Realizar un seguimiento de eventos, métricas, vistas de página, usuarios, bloqueos, dependencias, contadores de rendimiento y tiempos de respuesta.
+•	Funciona tanto con aplicaciones web como independientes en una amplia variedad de plataformas: .NET o J2EE, hospedadas localmente o en la nube; aplicaciones de dispositivos en Windows, iOS, Android, OSX y otras plataformas.
+Lo que haremos en este laboratorio:
+Revisaremos la forma en que podemos integrar nuestras aplicaciones al servicio de Insights para poder realizar un seguimiento a las mismas
+Requisitos:
+•	Una suscripción activa a Azure
+•	Visual Studio 2015
+•	Visual Studio Code (Opcional)
